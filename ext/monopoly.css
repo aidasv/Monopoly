@@ -1,0 +1,11 @@
+.simple_card{
+  width:100px;
+  height:150px;
+  background-color: green;
+}
+
+.simple_card .header {
+  width:100px;
+  height:50px;
+  background-color: red;
+}
