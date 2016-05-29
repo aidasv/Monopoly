@@ -1,11 +1,45 @@
-.simple_card{
+.simple-card{
   width:100px;
   height:150px;
   background-color: green;
+  display:inline-block;
 }
 
-.simple_card .header {
+.simple-card .header {
   width:100px;
   height:50px;
   background-color: red;
+}
+
+.jail-card {
+  width: 200px;
+  height: 150px;
+  font-size: 20px;
+  display:inline-block;
+  text-align: center;
+  vertical-align: center;
+  background-color: yellow;
+}
+
+.free-parking-card {
+  width: 200px;
+  height: 150px;
+  font-size: 20px;
+  display:inline-block;
+  text-align: center;
+  vertical-align: center;
+  background-color: red;
+}
+
+.middle-space{
+  width: 828px;
+  display: inline-block;
+
+}
+
+.horizontal-card {
+  width: 200px;
+  height: 100px;
+  display: inline-block;
+  background-color: #DD3222;
 }

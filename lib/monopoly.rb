@@ -1,2 +1,7 @@
 require 'monopoly/board'
 require 'monopoly/card'
+require 'monopoly/jail_card'
+require 'monopoly/free_parking_card'
+require 'monopoly/vcard'
+require 'monopoly/hcard'
+require 'monopoly/card_row'
